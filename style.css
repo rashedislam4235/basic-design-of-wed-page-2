@@ -136,3 +136,46 @@
     font-weight: bold;
 }
 
+
+
+.plans-container{
+   max-width: 1141px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+.plans-container h2{
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 49px;
+   
+}
+
+
+.plan-items{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.plan-box{
+    
+}
+
+.plan-box img{
+    max-width: 92px;
+    margin-bottom: 24px;
+}
+
+.plan-box h3{
+    font-size: 30px;
+    margin-bottom: 16px;
+}
+
+.plan-box p{
+    color: #737272;
+    font-size: 25px;
+}
+
+
