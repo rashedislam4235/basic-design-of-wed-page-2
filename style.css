@@ -186,8 +186,16 @@
 .call-container{
     max-width: 1141px;
     margin: 0 auto;
-    background: url("images/watch.png"), url("images/gradient2.png");
-    
+   background: url("images/watch.png");
+       background:
+        linear-gradient(to right, 
+            rgba(255, 94, 0, 0.85) 0%, 
+            rgba(255, 94, 0, 0.75) 35%, 
+            rgba(255, 94, 0, 0.4) 60%, 
+            rgba(255, 94, 0, 0) 85%
+        ),
+        url("images/watch.png");
+   
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
