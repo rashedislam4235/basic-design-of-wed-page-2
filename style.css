@@ -177,5 +177,63 @@
     color: #737272;
     font-size: 25px;
 }
+/* Call Section */
+.call-section{
+    padding-top: 130px;
+   
+}
+
+.call-container{
+    max-width: 1141px;
+    margin: 0 auto;
+    background: url("images/watch.png"), url("images/gradient2.png");
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: 59px;
+   padding-left: 64px;
+   padding-right: 617px;
+   padding-bottom: 59px;
+}
+
+/* Banner */
+.call-banner{
+   max-width: 459px;
+   
+
+}
+.call-banner h2{
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 24px;
+
+}
+
+/* Orange Gradient Overlay */
+
+
+/* Content */
+
+
+
+
+.call-btn{
+    background-color: white;
+    color: #005FAC;
+    border: none;
+    padding: 20px 36px;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.call-btn:hover{
+    background-color: #FFFFFF;
+}
+
 
 
